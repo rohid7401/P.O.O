@@ -1,0 +1,85 @@
+{
+  "device": [
+    {
+      "name": "Washing Machine",
+      "mark": "Whirpool",
+      "type": "modality",
+      "modality": [ "gently", "normal", "strong" ]
+    },
+    {
+      "name": "TV",
+      "mark": "Samsung",
+      "type": "signal",
+      "signal": [ 7, 102, 53, 44, 480 ]
+    },
+    {
+      "name": "Air Aconditioning",
+      "mark": "LG",
+      "type": "thermal",
+      "temperatureMin": 10,
+      "temperatureMax": 35
+    },
+    {
+      "name": "Refrigerator",
+      "mark": "Samsung",
+      "type": "thermal",
+      "temperatureMin": -23,
+      "temperatureMax": -15
+    },
+    {
+      "name": "Oven",
+      "mark": "Samsung",
+      "type": "thermal",
+      "temperatureMin": 150,
+      "temperatureMax": 260
+    },
+    {
+      "name": "Blender",
+      "mark": "Smeg",
+      "type": "modality",
+      "modality": [ "slow", "normal", "faster" ]
+    },
+    {
+      "name": "Rise Cooker",
+      "mark": "Premium",
+      "type": "modality",
+      "modality": [ "Warming", "Cooking" ]
+    },
+    {
+      "name": "Coffee Maker",
+      "mark": "LG",
+      "type": "modality",
+      "modality": [ "Coffee", "Cappuccino" ]
+    },
+    {
+      "name": "Lamp",
+      "mark": "Joly Joy",
+      "type": "modality",
+      "modality": [ "low", "medium", "high" ]
+    },
+    {
+      "name": "Radio",
+      "mark": "Panasonic",
+      "type": "signal",
+      "signal": [ 89.9, 92.5, 101.1, 95.3, 76.8 ]
+    },
+    {
+      "name": "Security Camera",
+      "mark": "wyze",
+      "type": "modality",
+      "modality": [ "day", "night" ]
+    },
+    {
+      "name": "Shower",
+      "mark": "AquaDance",
+      "type": "modality",
+      "modality": [ "cold", "warm", "hot" ]
+    },
+    {
+      "name": "Fan",
+      "mark": "Durabrand",
+      "type": "modality",
+      "modality": [ "0", "1", "2", "3"]
+    }
+  ]
+}
